@@ -1,9 +1,9 @@
 ﻿# Daily-paper-reading-record
-This repository is created for recording the paper I read every day, so as to facilitate my review and push myself to learn.
+This repository is created for recording the paper I read every day, so as to facilitate my review and push myself to learn. At the end of each month, a sorting and classification will be conducted, please look forward to.
 
 
 <h2 id="2019-9">2019-9</h2> 
 <h3 id="2019-9-24">2019-9-24</h2> 
 
-* Kishore Papineni, Salim Roukos, Todd Ward, and Wei-Jing Zhu. 2002. [BLEU: a Method for Automatic Evaluation of Machine Translation](http://aclweb.org/anthology/P02-1040). In *Proceedings of ACL 2002*. ([Citation](https://scholar.google.com/scholar?cites=9019091454858686906&as_sdt=2005&sciodt=0,5&hl=en): 8,507)
-* Peter E. Brown, Stephen A. Della Pietra, Vincent J. Della Pietra, and Robert L. Mercer. 1993. [The Mathematics of Statistical Machine Translation: Parameter Estimation](http://aclweb.org/anthology/J93-2003). *Computational Linguistics*. ([Citation](https://scholar.google.com/scholar?cites=2259057253133260714&as_sdt=2005&sciodt=0,5&hl=en): 4,965)
+* Xiangyu Duan, Mingming Yin, Min Zhang, Boxing Chen, and Weihua Luo. 2019. [Zero-Shot Cross-Lingual Abstractive Sentence Summarization through Teaching Generation and Attention](https://www.aclweb.org/anthology/P19-1305). In *Proceedings of ACL 2019*. ([Citation](https://scholar.google.com.hk/scholar?cites=4447027845442382549&as_sdt=2005&sciodt=0,5&hl=en): 2)
+* Zichao Li, Xin Jiang, Lifeng Shang, and Qun Liu. 2019. [Decomposable Neural Paraphrase Generation](https://www.aclweb.org/anthology/P19-1332). In *Proceedings of ACL 2019*. ([Citation](https://scholar.google.com/scholar?cites=2127186015147588496&as_sdt=2005&sciodt=0,5&hl=zh-CN): 1)
