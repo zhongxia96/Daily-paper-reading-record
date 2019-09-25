@@ -13,5 +13,6 @@ This repository is created for recording the paper I read every day, so as to fa
 
 * Reinald Kim Amplayo, and Mirella Lapata. 2019. [Informative and Controllable Opinion Summarization](https://arxiv.org/pdf/1909.02322.pdf). In *Proceedings of AAAI 2020* under review. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Informative+and+Controllable+Opinion+Summarization&btnG=): 0) [note](http://note.youdao.com/noteshare?id=6558877a3db80872501e6ca4eecebef7&sub=5777F8E9C1B34006933EAA608D1659E5)
 * Todor Mihaylov, and Anette Frank. 2019. [Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension](https://arxiv.org/pdf/1909.02322.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Discourse-Aware+Semantic+Self-Attention+for+Narrative+Reading+Comprehension&btnG=): 0) 
+* Sunil Kumar Sahu, Fenia Christopoulou, Makoto Miwa, and Sophia Ananiadou. 2019. [Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network](https://www.aclweb.org/anthology/P19-1423). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=1934711288630767208&as_sdt=2005&sciodt=0,5&hl=zh-CN): 1) 
 
 
