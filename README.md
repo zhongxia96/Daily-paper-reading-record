@@ -11,7 +11,6 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-9-24">2019-9-25</h2> 
 
 * Reinald Kim Amplayo, and Mirella Lapata. 2019. [Informative and Controllable Opinion Summarization](https://arxiv.org/pdf/1909.02322.pdf). In *Proceedings of AAAI 2020* under review. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Informative+and+Controllable+Opinion+Summarization&btnG=): 0) [note](http://note.youdao.com/noteshare?id=6558877a3db80872501e6ca4eecebef7&sub=5777F8E9C1B34006933EAA608D1659E5)
-* Todor Mihaylov, and Anette Frank. 2019. [Discourse-Aware Semantic Self-Attention for Narrative Reading
-Comprehension](https://arxiv.org/pdf/1909.02322.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Discourse-Aware+Semantic+Self-Attention+for+Narrative+Reading+Comprehension&btnG=): 0) 
+* Todor Mihaylov, and Anette Frank. 2019. [Discourse-Aware Semantic Self-Attention for Narrative Reading Comprehension](https://arxiv.org/pdf/1909.02322.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Discourse-Aware+Semantic+Self-Attention+for+Narrative+Reading+Comprehension&btnG=): 0) 
 
 
