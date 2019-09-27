@@ -16,3 +16,13 @@ This repository is created for recording the paper I read every day, so as to fa
 * Sunil Kumar Sahu, Fenia Christopoulou, Makoto Miwa, and Sophia Ananiadou. 2019. [Inter-sentence Relation Extraction with Document-level Graph Convolutional Neural Network](https://www.aclweb.org/anthology/P19-1423). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=1934711288630767208&as_sdt=2005&sciodt=0,5&hl=zh-CN): 1) 
 
 
+<h3 id="2019-9-24">2019-9-26</h2> 
+
+* Jie Hao, and Xing Wang. 2019. [Multi-Granularity Self-Attention for Neural Machine Translation](https://arxiv.org/pdf/1909.02322.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=10526649931200051023&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2) 
+* Wei Li, Xinyan Xiao, Yajuan Lyu, and Yuanzhuo Wang. 2018. [Improving Neural Abstractive Document Summarization with Structural Regularization](https://www.aclweb.org/anthology/D18-1441). In *Proceedings of EMNLP 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=838295083193989575&as_sdt=2005&sciodt=0,5&hl=zh-CN): 4) 
+
+
+<h3 id="2019-9-24">2019-9-27</h2> 
+
+* Jie Hao, and Xing Wang. 2019. [Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization](https://arxiv.org/pdf/1909.12231.pdf). In *Proceedings of EMNLP 2019*.  
+* Mingyue Shang, Piji Li, Zhenxin Fu, Lidong Bing, Dongyan Zhao, Shuming Shi, and Rui Yan. 2019. [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://ai.tencent.com/ailab/nlp/dialogue/papers/EMNLP2019_mingyueshang.pdf). In *Proceedings of EMNLP 2019*. 
