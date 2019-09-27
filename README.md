@@ -24,5 +24,5 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h3 id="2019-9-24">2019-9-27</h2> 
 
-* Jie Hao, and Xing Wang. 2019. [Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization](https://arxiv.org/pdf/1909.12231.pdf). In *Proceedings of EMNLP 2019*.  
+* Diego Antognini, and Boi Faltings. 2019. [Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization](https://arxiv.org/pdf/1909.12231.pdf). arxiv.  
 * Mingyue Shang, Piji Li, Zhenxin Fu, Lidong Bing, Dongyan Zhao, Shuming Shi, and Rui Yan. 2019. [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://ai.tencent.com/ailab/nlp/dialogue/papers/EMNLP2019_mingyueshang.pdf). In *Proceedings of EMNLP 2019*. 
