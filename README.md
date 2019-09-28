@@ -26,3 +26,8 @@ This repository is created for recording the paper I read every day, so as to fa
 
 * Diego Antognini, and Boi Faltings. 2019. [Learning to Create Sentence Semantic Relation Graphs for Multi-Document Summarization](https://arxiv.org/pdf/1909.12231.pdf). arxiv.  
 * Mingyue Shang, Piji Li, Zhenxin Fu, Lidong Bing, Dongyan Zhao, Shuming Shi, and Rui Yan. 2019. [Semi-supervised Text Style Transfer: Cross Projection in Latent Space](https://ai.tencent.com/ailab/nlp/dialogue/papers/EMNLP2019_mingyueshang.pdf). In *Proceedings of EMNLP 2019*. 
+
+
+<h3 id="2019-9-28">2019-9-28</h2> 
+
+* Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, and Qun Liu. 2019. [TINYBERT: DISTILLING BERT FOR NATURAL LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1909.10351.pdf). arxiv. 
