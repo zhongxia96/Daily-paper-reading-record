@@ -32,4 +32,4 @@ This repository is created for recording the paper I read every day, so as to fa
 
 * Xiaoqi Jiao, Yichun Yin, Lifeng Shang, Xin Jiang, Xiao Chen, Linlin Li, Fang Wang, and Qun Liu. 2019. [TINYBERT: DISTILLING BERT FOR NATURAL LANGUAGE UNDERSTANDING](https://arxiv.org/pdf/1909.10351.pdf). arxiv. 
 * Fei Liu, Jeffrey Flanigan, Sam Thomson, Norman Sadeh, and Noah A.Smith. 2015. [Toward Abstractive Summarization Using Semantic Representations](https://www.aclweb.org/anthology/N15-1114). In *Proceedings of NAACL 2015*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=4731361455028710225&as_sdt=2005&sciodt=0,5&hl=zh-CN): 126) 
-* Kexin Liao, Logan Lebanoff, and Fei Liu. 2018. [Abstract Meaning Representation for Multi-Document Summarization](https://aclweb.org/anthology/C18-1101). In *Proceedings of CCL 2018*.
+* Kexin Liao, Logan Lebanoff, and Fei Liu. 2018. [Abstract Meaning Representation for Multi-Document Summarization](https://aclweb.org/anthology/C18-1101). In *Proceedings of CCL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=15163398307945885444&as_sdt=2005&sciodt=0,5&hl=zh-CN): 6) 
