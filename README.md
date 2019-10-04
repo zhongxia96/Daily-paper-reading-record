@@ -38,4 +38,4 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-9-28">2019-9-29</h2> 
 
 * Liang Yao, Chengsheng Mao, and Yuan Luo. 2018. [Graph Convolutional Networks for Text Classification](https://arxiv.org/pdf/1809.05679.pdf). In *Proceedings of AAAI 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=8628981683053506125&as_sdt=2005&sciodt=0,5&hl=zh-CN): 21) [note](https://zhuanlan.zhihu.com/p/56879815)
-* Yoon Kim, Alexander M. Rush. 2016. [Sequence-Level Knowledge Distillation](https://arxiv.org/pdf/1606.07947.pdf). In *Proceedings of EMNLP 2016*. ([Citation](https://scholar.google.com.sg/scholar?cites=7576178314368830775&as_sdt=2005&sciodt=0,5&hl=zh-CN: 123)
+* Yoon Kim, and Alexander M. Rush. 2016. [Sequence-Level Knowledge Distillation](https://arxiv.org/pdf/1606.07947.pdf). In *Proceedings of EMNLP 2016*. ([Citation](https://scholar.google.com.sg/scholar?cites=7576178314368830775&as_sdt=2005&sciodt=0,5&hl=zh-CN): 123)
