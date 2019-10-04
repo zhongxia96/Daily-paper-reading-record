@@ -45,3 +45,9 @@ This repository is created for recording the paper I read every day, so as to fa
 
 * Jiatao Gu, James Bradbury, Caiming Xiong, Victor O.K. Li, and Richard Socher. 2017. [NON-AUTOREGRESSIVE NEURAL MACHINE TRANSLATION](https://arxiv.org/pdf/1711.02281.pdf). In *Proceedings of ICLR 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=3482831974828539059&as_sdt=2005&sciodt=0,5&hl=zh-CN): 56) [note1](https://zhuanlan.zhihu.com/p/35866317) [note2](https://zhuanlan.zhihu.com/p/82892975)
 * Wen Zhang, Yang Feng, Fandong Meng, Di You, and Qun Liu. 2019. [Bridging the Gap between Training and Inference for Neural Machine Translation](https://arxiv.org/abs/1906.02448). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=11065145426206751150&as_sdt=2005&sciodt=0,5&hl=zh-CN): 1) [note](https://spring-quan.github.io/2019/08/02/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0%E3%80%8ABridging-the-Gap-between-Training-and-Inference-for-Neural-Machine-Translation%E3%80%8B/)
+
+
+<h2 id="2019-10">2019-10</h2> 
+<h3 id="2019-10-1">2019-10-1</h2> 
+
+* Xiangyu Duan, Mingming Yin, Min Zhang, Boxing Chen, and Weihua Luo. 2018. [Fast Decoding in Sequence Models Using Discrete Latent Variables](https://arxiv.org/pdf/1803.03382.pdf). In *Proceedings of ICML 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=4042994175439965815&as_sdt=2005&sciodt=0,5&hl=zh-CN): 11)
