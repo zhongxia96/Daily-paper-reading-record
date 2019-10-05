@@ -64,3 +64,10 @@ This repository is created for recording the paper I read every day, so as to fa
 
 * Logan Lebanoff, John Muchovej, Franck Dernoncourt, Doo Soon Kim, Seokhwan Kim, Walter Chang, and Fei Liu. 2019. [Analyzing Sentence Fusion in Abstractive Summarization](https://arxiv.org/pdf/1910.00203.pdf). arxiv.
 * Asli Celikyilmaz, Antoine Bosselut, Xiaodong He, and Yejin Choi. 2018. [Deep Communicating Agents for Abstractive Summarization](https://www.aclweb.org/anthology/N18-1150.pdf). In *Proceedings of NAACL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=3657827838385959036&as_sdt=2005&sciodt=0,5&hl=zh-CN): 58) [note](https://zhuanlan.zhihu.com/p/24879932)
+
+
+<h3 id="2019-10-4">2019-10-4</h2> 
+
+* Wen Xiao, and Giuseppe Carenini. 2019. [Extractive Summarization of Long Documents by Combining Global and Local Context](https://arxiv.org/pdf/1909.08089.pdf). In *Proceedings of EMNLP 2019*. 
+* Eva Sharma, Luyang Huang, Zhe Hu, and Lu Wang. 2019. [An Entity-Driven Framework for Abstractive Summarization](https://arxiv.org/pdf/1909.02059.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2019&q=An+Entity-Driven+Framework+for+Abstractive+Summarization&btnG=))
+
