@@ -63,4 +63,4 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-3">2019-10-3</h2> 
 
 * Logan Lebanoff, John Muchovej, Franck Dernoncourt, Doo Soon Kim, Seokhwan Kim, Walter Chang, and Fei Liu. 2019. [Analyzing Sentence Fusion in Abstractive Summarization](https://arxiv.org/pdf/1910.00203.pdf). arxiv.
-* Asli Celikyilmaz, Antoine Bosselut, Xiaodong He, and Yejin Choi. 2018. [Robust Neural Machine Translation with Doubly Adversarial Inputs](https://www.aclweb.org/anthology/N18-1150.pdf). In *Proceedings of NAACL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=3657827838385959036&as_sdt=2005&sciodt=0,5&hl=zh-CN): 58) [note](https://zhuanlan.zhihu.com/p/24879932)
+* Asli Celikyilmaz, Antoine Bosselut, Xiaodong He, and Yejin Choi. 2018. [Deep Communicating Agents for Abstractive Summarization](https://www.aclweb.org/anthology/N18-1150.pdf). In *Proceedings of NAACL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=3657827838385959036&as_sdt=2005&sciodt=0,5&hl=zh-CN): 58) [note](https://zhuanlan.zhihu.com/p/24879932)
