@@ -51,3 +51,9 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-1">2019-10-1</h2> 
 
 * Xiangyu Duan, Mingming Yin, Min Zhang, Boxing Chen, and Weihua Luo. 2018. [Fast Decoding in Sequence Models Using Discrete Latent Variables](https://arxiv.org/pdf/1803.03382.pdf). In *Proceedings of ICML 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=4042994175439965815&as_sdt=2005&sciodt=0,5&hl=zh-CN): 11)
+* Yiren Wang, Fei Tian, Di He, Tao Qin, ChengXiang Zhai, and Tie-Yan Liu. 2019. [Non-Autoregressive Machine Translation with Auxiliary Regularization](https://arxiv.org/pdf/1902.10245.pdf). In *Proceedings of AAAI 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=14027588400170732302&as_sdt=2005&sciodt=0,5&hl=zh-CN): 7)
+
+
+<h3 id="2019-10-2">2019-10-2</h2> 
+
+* Junliang Guo, Xu Tan, Di He, Tao Qin, Linli Xu, and Tie-Yan Liu. 2019. [Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input](https://arxiv.org/pdf/1812.09664.pdf). In *Proceedings of AAAI 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=14984310531770070805&as_sdt=2005&sciodt=0,5&hl=zh-CN): 8)
