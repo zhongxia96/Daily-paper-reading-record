@@ -57,3 +57,4 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-2">2019-10-2</h2> 
 
 * Junliang Guo, Xu Tan, Di He, Tao Qin, Linli Xu, and Tie-Yan Liu. 2019. [Non-Autoregressive Neural Machine Translation with Enhanced Decoder Input](https://arxiv.org/pdf/1812.09664.pdf). In *Proceedings of AAAI 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=14984310531770070805&as_sdt=2005&sciodt=0,5&hl=zh-CN): 8) [note](https://zhuanlan.zhihu.com/p/82892975)
+* Yong Cheng, Lu Jiang, and Wolfgang Macherey. 2019. [Robust Neural Machine Translation with Doubly Adversarial Inputs](https://www.aclweb.org/anthology/P19-1425.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=14088729018834008838&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2)
