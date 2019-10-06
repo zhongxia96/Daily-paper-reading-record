@@ -78,3 +78,8 @@ This repository is created for recording the paper I read every day, so as to fa
 * Xuezhe Ma, Chunting Zhou, Xian Li, Graham Neubig, and Eduard Hovy. 2019. [FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow](https://arxiv.org/pdf/1909.02480.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=5753623392275205285&scipsc=&q=FlowSeq%3A+Non-Autoregressive+Conditional+Sequence+Generation+with+Generative+Flow&btnG=)) [note](https://www.zhihu.com/question/340635872/answer/816161809)
 
 
+<h3 id="2019-10-5">2019-10-6</h2> 
+
+* Yimeng Zhuang, and Huadong Wang. 2019. [Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension](https://www.aclweb.org/anthology/P19-1218.pdf). In *Proceedings of ACL 2019*. ([Citation](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Token-level+Dynamic+Self-Attention+Network+for+Multi-Passage+Reading+Comprehension&btnG=))
+* Mostafa Dehghani, Hosein Azarbonyad, Jaap Kamps, and Maarten de Rijke. 2019. [Learning to Transform, Combine, and Reason
+in Open-Domain Question Answering](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/deghani-learning-2019.pdf). In *Proceedings of WSDM 2019*. ([Citation](https://scholar.google.com/scholar?cites=14939554534471451162&as_sdt=2005&sciodt=0,5&hl=zh-CN))
