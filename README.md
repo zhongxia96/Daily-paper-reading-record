@@ -74,5 +74,5 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h3 id="2019-10-5">2019-10-5</h2> 
 
-* Xu Tan, Yi Ren, Di He, Tao Qin, Zhou Zhao, and Tie-Yan Liu. 2019. [MULTILINGUAL NEURAL MACHINE TRANSLATION WITH KNOWLEDGE DISTILLATION](https://arxiv.org/pdf/1909.08089.pdf). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com/scholar?cites=5753623392275205285&as_sdt=2005&sciodt=0,5&hl=zh-CN))
+* Xu Tan, Yi Ren, Di He, Tao Qin, Zhou Zhao, and Tie-Yan Liu. 2019. [MULTILINGUAL NEURAL MACHINE TRANSLATION WITH KNOWLEDGE DISTILLATION](https://arxiv.org/pdf/1909.08089.pdf). In *Proceedings of ICLR 2019*. ([Citation](https://scholar.google.com/scholar?cites=5753623392275205285&as_sdt=2005&sciodt=0,5&hl=zh-CN): 7)
 
