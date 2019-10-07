@@ -89,3 +89,8 @@ AND MEMORY-EFFICIENT SEQUENCE MODELING](https://arxiv.org/pdf/1804.00857.pdf). I
 * Anonymous authors. 2019. [MUSE: MULTI-SCALE ATTENTION MODEL FOR SEQUENCE TO SEQUENCE LEARNING](https://openreview.net/pdf?id=SJe-3REFwr). In *Proceedings of ICLR 2020* under review.
 * Melvin Johnson, Mike Schuster, Quoc V. Le, Maxim Krikun, Yonghui Wu, Zhifeng Chen, Nikhil Thorat, Fernanda Viégas, Martin Wattenberg, Greg Corrado, Macduff Hughes, Jeffrey Dean. 2017. [Google’s Multilingual Neural Machine Translation System:
 Enabling Zero-Shot Translation](https://www.aclweb.org/anthology/Q17-1024.pdf). In *Transactions of TACL 2017*. ([Citation](https://scholar.google.com/scholar?cites=14714070858185645763&as_sdt=2005&sciodt=0,5&hl=zh-CN): 482) [note](https://cloud.tencent.com/developer/article/1073152)
+
+
+<h3 id="2019-10-7">2019-10-7</h2> 
+
+* Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua, and Maosong Sun. 2019. [Graph Neural Networks with Generated Parameters for Relation Extraction](https://www.aclweb.org/anthology/P19-1128.pdf). In *Proceedings of ACL 2019*. ([Citation](https://scholar.google.com/scholar?cites=18227538214871902721&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2) [note](https://blog.csdn.net/m0_38031488/article/details/94139433)
