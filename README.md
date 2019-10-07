@@ -94,3 +94,4 @@ Enabling Zero-Shot Translation](https://www.aclweb.org/anthology/Q17-1024.pdf). 
 <h3 id="2019-10-7">2019-10-7</h2> 
 
 * Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-seng Chua, and Maosong Sun. 2019. [Graph Neural Networks with Generated Parameters for Relation Extraction](https://www.aclweb.org/anthology/P19-1128.pdf). In *Proceedings of ACL 2019*. ([Citation](https://scholar.google.com/scholar?cites=18227538214871902721&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2) [note](https://blog.csdn.net/m0_38031488/article/details/94139433)
+* Anonymous authors. 2019. [REINFORCEMENT LEARNING BASED GRAPH-TO-SEQUENCE MODEL FOR NATURAL QUESTION GENERATION](https://openreview.net/pdf?id=HygnDhEtvr). In *Proceedings of ICLR 2020* under review.
