@@ -98,7 +98,9 @@ Enabling Zero-Shot Translation](https://www.aclweb.org/anthology/Q17-1024.pdf). 
 * Yau-ShianWang, Hung-Yi Lee, and Yun-Nung Chen. 2019. [Tree Transformer: Integrating Tree Structures into Self-Attention](https://arxiv.org/pdf/1909.06639.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=18227538214871902721&scipsc=&q=Tree+Transformer%3A+Integrating+Tree+Structures+into+Self-Attention&btnG=)) [note](http://note.youdao.com/noteshare?id=a7604a19fb9946576a720fdeedef310d&sub=A735D46F5811484489EAE1CCEBBE832A)
 
 
-<h3 id="2019-10-7">2019-10-7</h2> 
+<h3 id="2019-10-8">2019-10-8</h2> 
 
 * Joris Baan, Maartje ter Hoeve, Marlies van der Wees, Anne Schuth, and Maarten de Rijke. 2019. [Do Transformer Attention Heads Provide Transparency in Abstractive Summarization?](https://arxiv.org/pdf/1907.00570.pdf). arxiv. ([Citation](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Do+Transformer+Attention+Heads+Provide+Transparency+in+Abstractive+Summarization%3F&btnG=): 1)
 * Yang Li, Lukasz Kaiser, Samy Bengio, Si Si. Google Research 2019. [Area Attention](http://proceedings.mlr.press/v97/li19e/li19e.pdf). In *Proceedings of ICML 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=18047282171454951576&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2)
+
+<h3 id="2019-10-9">2019-10-9</h2> 
