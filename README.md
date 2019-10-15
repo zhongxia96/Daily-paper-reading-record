@@ -105,5 +105,6 @@ Enabling Zero-Shot Translation](https://www.aclweb.org/anthology/Q17-1024.pdf). 
 
 <h3 id="2019-10-9">2019-10-9</h2> 
 
-* Shiv Shankar, Sunita Sarawagi. 2019. [POSTERIOR ATTENTION MODELS FOR SEQUENCE TO
+* Shiv Shankar, and Sunita Sarawagi. 2019. [POSTERIOR ATTENTION MODELS FOR SEQUENCE TO
 SEQUENCE LEARNING](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of ICLR 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=6570316980563618012&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2) 难度指数：⭐️⭐️⭐️⭐️ 推荐指数：😊😊😊
+* Jaemin Cho, Minjoon Seo, and Hannaneh Hajishirzi. 2019. [Mixture Content Selection for Diverse Sequence Generation](https://arxiv.org/pdf/1909.01953.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?q=Mixture+Content+Selection+for+Diverse+Sequence+Generation&hl=zh-CN&as_sdt=0,5): 0) 难度指数：⭐️⭐️ 推荐指数：😊😊😊😊
