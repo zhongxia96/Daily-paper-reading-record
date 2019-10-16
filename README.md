@@ -114,3 +114,4 @@ SEQUENCE LEARNING](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of
 <h3 id="2019-10-10">2019-10-10</h2> 
 
 * Shiv Shankar, and Sunita Sarawagi. 2019. [Mixture Models for Diverse Machine Translation: Tricks of the Trade](https://arxiv.org/pdf/1902.07816.pdf). In *Proceedings of ICML 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=10713606322116851955&as_sdt=2005&sciodt=0,5&hl=zh-CN): 6) 难度指数：⭐️⭐️⭐️ 推荐指数：😊😊😊😊
+* Mitchell Stern, William Chan, Jamie Kiros, Jakob Uszkoreit. Google Brain 2019. [Insertion Transformer: Flexible Sequence Generation via Insertion Operations](http://proceedings.mlr.press/v97/stern19a/stern19a.pdf). In *Proceedings of ICML 2019*. ([Citation](https://xs.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&q=Insertion+Transformer%3A+Flexible+Sequence+Generation+via+Insertion+Operations&btnG=): 9) 难度指数：⭐️⭐️⭐️⭐️ 推荐指数：😊😊😊
