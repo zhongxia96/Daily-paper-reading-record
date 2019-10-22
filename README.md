@@ -119,4 +119,4 @@ SEQUENCE LEARNING](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of
 
 <h3 id="2019-10-11">2019-10-11</h2> 
 
-* Linmei Hu, Tianchi Yang, Chuan Shi, Houye Ji, Xiaoli Li. 2019. [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](https://arxiv.org/pdf/1902.07816.pdf). In *Proceedings of EMNLP 2019*. 难度指数：⭐️ 推荐指数：😊😊
+* Linmei Hu, Tianchi Yang, Chuan Shi, Houye Ji, Xiaoli Li. 2019. [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](http://www.shichuan.org/doc/74.pdf). In *Proceedings of EMNLP 2019*. 难度指数：⭐️ 推荐指数：😊😊
