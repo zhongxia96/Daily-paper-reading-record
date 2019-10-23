@@ -120,3 +120,4 @@ SEQUENCE LEARNING](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of
 <h3 id="2019-10-11">2019-10-11</h2> 
 
 * Linmei Hu, Tianchi Yang, Chuan Shi, Houye Ji, Xiaoli Li. 2019. [Heterogeneous Graph Attention Networks for Semi-supervised Short Text Classification](http://www.shichuan.org/doc/74.pdf). In *Proceedings of EMNLP 2019*. 难度指数：⭐️ 推荐指数：😊😊
+* Angela Fan, Claire Gardent, Chloe Braud, Antoine Bordes. 2019. [Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs](https://arxiv.org/pdf/1910.08435.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊😊
