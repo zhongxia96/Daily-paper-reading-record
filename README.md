@@ -126,3 +126,4 @@ SEQUENCE LEARNING](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of
 <h3 id="2019-10-12">2019-10-12</h2> 
 
 * Anonymous authors. 2020. [ATTENTION OVER PHRASES](https://openreview.net/pdf?id=HJeYalBKvr). In *Proceedings of ICLR 2020* under review. 难度指数：⭐️⭐️ 推荐指数：😊😊😊😊
+* Anonymous authors. 2020. [QUESTION GENERATION FROM PARAGRAPHS: A TALE OF TWO HIERARCHICAL MODELS](https://openreview.net/pdf?id=BJeVXgBKDH). In *Proceedings of ICLR 2020* under review. 难度指数：⭐️ 推荐指数：😊😊😊
