@@ -125,4 +125,4 @@ SEQUENCE LEARNING](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of
 
 <h3 id="2019-10-12">2019-10-12</h2> 
 
-* Anonymous authors. 2020. [ATTENTION OVER PHRASES](http://www.shichuan.org/doc/74.pdf). In *Proceedings of ICLR 2020* under review. 难度指数：⭐️⭐️ 推荐指数：😊😊😊😊
+* Anonymous authors. 2020. [ATTENTION OVER PHRASES](https://openreview.net/pdf?id=HJeYalBKvr). In *Proceedings of ICLR 2020* under review. 难度指数：⭐️⭐️ 推荐指数：😊😊😊😊
