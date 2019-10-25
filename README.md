@@ -7,6 +7,7 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-15">2019-10-15</h2> 
 
 * Peter Shaw, Jakob Uszkoreit, and Ashish Vaswani. Google Brain 2018. [Self-Attention with Relative Position Representations](https://www.aclweb.org/anthology/N18-2074.pdf). In *Proceedings of NAACL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=5563767891081728261&as_sdt=2005&sciodt=0,5&hl=zh-CN): 96) 难度指数：⭐️⭐️ 推荐指数：😊😊😊
+* Xing Wang, Zhaopeng Tu, Longyue Wang, and Shuming Shi. 2019. [Exploiting Sentential Context for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1624.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=9497270264972141271&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2) 难度指数：⭐️ 推荐指数：😊😊
 
 
 <h3 id="2019-10-14">2019-10-14</h2> 
