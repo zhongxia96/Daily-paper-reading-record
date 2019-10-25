@@ -132,3 +132,4 @@ SEQUENCE LEARNING](https://openreview.net/pdf?id=BkltNhC9FX). In *Proceedings of
 <h3 id="2019-10-13">2019-10-13</h2> 
 
 * David Donahue, Vladislav Lialin, and Anna Rumshisky. 2019. [Injecting Hierarchy with U-Net Transformers](https://arxiv.org/pdf/1910.10488.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊😊
+* Anonymous authors. 2019. [SPARSE TRANSFORMER: CONCENTRATED ATTENTION THROUGH EXPLICIT SELECTION](https://openreview.net/pdf?id=Hye87grYDH). In *Proceedings of ICLR 2020* under review. 难度指数：⭐️ 推荐指数：😊😊😊
