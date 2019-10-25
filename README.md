@@ -6,7 +6,13 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h3 id="2019-10-14">2019-10-14</h2> 
 
+* Peter Shaw, Jakob Uszkoreit, and Ashish Vaswani. Google Brain 2018. [Self-Attention with Relative Position Representations](https://www.aclweb.org/anthology/N18-2074.pdf). In *Proceedings of NAACL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=5563767891081728261&as_sdt=2005&sciodt=0,5&hl=zh-CN): 96) 难度指数：⭐️⭐️ 推荐指数：😊😊😊
+
+
+<h3 id="2019-10-14">2019-10-14</h2> 
+
 * Mingming Yang, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita, Min Zhang, and Tiejun Zhao. 2019. [Sentence-Level Agreement for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1296.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Sentence-Level+Agreement+for+Neural+Machine+Translation&btnG=): 0) 难度指数：⭐️ 推荐指数：😊😊😊
+* Fengshun Xiao, Jiangtong Li, Hai Zhao, Rui Wang, and Kehai Chen. 2019. [Lattice-Based Transformer Encoder for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1298.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=7211493506283924485&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2) 难度指数：⭐️⭐️ 推荐指数：😊😊😊
 
 
 <h3 id="2019-10-13">2019-10-13</h2> 
