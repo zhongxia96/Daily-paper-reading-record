@@ -4,6 +4,11 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h2 id="2019-10">2019-10</h2> 
 
+<h3 id="2019-10-14">2019-10-14</h2> 
+
+* Mingming Yang, Rui Wang, Kehai Chen, Masao Utiyama, Eiichiro Sumita, Min Zhang, and Tiejun Zhao. 2019. [Sentence-Level Agreement for Neural Machine Translation](https://www.aclweb.org/anthology/P19-1296.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Sentence-Level+Agreement+for+Neural+Machine+Translation&btnG=))
+
+
 <h3 id="2019-10-13">2019-10-13</h2> 
 
 * David Donahue, Vladislav Lialin, and Anna Rumshisky. 2019. [Injecting Hierarchy with U-Net Transformers](https://arxiv.org/pdf/1910.10488.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊😊
