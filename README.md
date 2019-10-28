@@ -4,6 +4,11 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h2 id="2019-10">2019-10</h2> 
 
+<h3 id="2019-10-16">2019-10-17</h2> 
+
+* Elena Voita, Rico Sennrich, and Ivan Titov. 2019. [Context-Aware Monolingual Repair for Neural Machine Translation](https://arxiv.org/pdf/1909.01383.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=17925728011410991963&scipsc=&q=Context-Aware+Monolingual+Repair+for+Neural+Machine+Translation&btnG=): 0) 难度指数：⭐️⭐️ 推荐指数：😊😊
+
+
 <h3 id="2019-10-16">2019-10-16</h2> 
 
 * Nader Akoury, Kalpesh Krishna, and Mohit Iyyer. 2019. [Syntactically Supervised Transformers for Faster Neural Machine Translation](https://www.aclweb.org/anthology/P19-1122.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Syntactically+Supervised+Transformers+for+Faster+Neural+Machine+Translation&btnG=): 0) 难度指数：⭐️⭐️ 推荐指数：😊😊😊
