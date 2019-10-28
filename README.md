@@ -4,9 +4,15 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h2 id="2019-10">2019-10</h2> 
 
-<h3 id="2019-10-16">2019-10-17</h2> 
+<h3 id="2019-10-18">2019-10-18</h2> 
+
+* Antoine Bosselut, Asli Celikyilmaz, Xiaodong He, Jianfeng Gao, Po-Sen Huang, and Yejin Cho. 2018. [Discourse-Aware Neural Rewards for Coherent Text Generation](https://www.aclweb.org/anthology/N18-1016.pdf). In *Proceedings of NAACL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=5869608516790877506&as_sdt=2005&sciodt=0,5&hl=zh-CN): 13) 难度指数：⭐️⭐️⭐️ 推荐指数：😊😊
+
+
+<h3 id="2019-10-17">2019-10-17</h2> 
 
 * Elena Voita, Rico Sennrich, and Ivan Titov. 2019. [Context-Aware Monolingual Repair for Neural Machine Translation](https://arxiv.org/pdf/1909.01383.pdf). In *Proceedings of EMNLP 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=17925728011410991963&scipsc=&q=Context-Aware+Monolingual+Repair+for+Neural+Machine+Translation&btnG=): 0) [note](https://mp.weixin.qq.com/s/KsRZTyLrw6o0ZW65HY0AXA) 难度指数：⭐️⭐️ 推荐指数：😊😊
+* Hao Xiong, Zhongjun He, Hua Wu, and Haifeng Wang. 2018. [Modeling Coherence for Discourse Neural Machine Translation](https://arxiv.org/pdf/1811.05683.pdf). In *Proceedings of AAAI 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=12890621005322290620&as_sdt=2005&sciodt=0,5&hl=zh-CN): 5) 难度指数：⭐️⭐️⭐️ 推荐指数：😊😊
 
 
 <h3 id="2019-10-16">2019-10-16</h2> 
