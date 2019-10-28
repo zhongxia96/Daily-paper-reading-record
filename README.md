@@ -7,6 +7,7 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-16">2019-10-16</h2> 
 
 * Nader Akoury, Kalpesh Krishna, and Mohit Iyyer. 2019. [Syntactically Supervised Transformers for Faster Neural Machine Translation](https://www.aclweb.org/anthology/P19-1122.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Syntactically+Supervised+Transformers+for+Faster+Neural+Machine+Translation&btnG=): 0) 难度指数：⭐️⭐️ 推荐指数：😊😊😊
+* Long Zhou, Jiajun Zhang, and Chengqing Zong. 2019. [Synchronous Bidirectional Neural Machine Translation](https://www.aclweb.org/anthology/Q19-1006.pdf). In *Proceedings of TACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=17925728011410991963&as_sdt=2005&sciodt=0,5&hl=zh-CN): 4) 难度指数：⭐️⭐️⭐️ 推荐指数：😊😊😊😊
 
 
 <h3 id="2019-10-15">2019-10-15</h2> 
