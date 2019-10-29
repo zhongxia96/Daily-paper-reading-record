@@ -4,6 +4,11 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h2 id="2019-10">2019-10</h2> 
 
+<h3 id="2019-10-21">2019-10-21</h2> 
+
+* Yongjian You, Weijia Jia, Tianyi Liu, and Wenmian Yang. 2019. [Improving Abstractive Document Summarization with Salient Information Modeling](https://www.aclweb.org/anthology/P19-1205.pdf). In *Proceedings of ACL 2019*. ([Citation](https://scholar.google.com/scholar?sxsrf=ACYBGNRHj5cFVuQgk6o_dQlH9ftpLajjQA:1572331069721&uact=5&um=1&ie=UTF-8&lr&cites=12545785486257638744): 1) 难度指数：⭐️⭐️ 推荐指数：😊
+
+
 <h3 id="2019-10-20">2019-10-20</h2> 
 
 * Vaibhav Vaibhav, Raghuram Mandyam Annasamy, and Eduard Hovy. 2019. [Do Sentence Interactions Matter? Leveraging Sentence Level Representations for Fake News Classification](https://arxiv.org/pdf/1910.12203.pdf). In *Proceedings of EMNLP 2019 workshop*. 难度指数：⭐️ 推荐指数：😊
