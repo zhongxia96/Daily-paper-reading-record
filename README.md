@@ -7,6 +7,7 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-20">2019-10-20</h2> 
 
 * Vaibhav Vaibhav, Raghuram Mandyam Annasamy, and Eduard Hovy. 2019. [Do Sentence Interactions Matter? Leveraging Sentence Level Representations for Fake News Classification](https://arxiv.org/pdf/1910.12203.pdf). In *Proceedings of EMNLP 2019 workshop*. 难度指数：⭐️ 推荐指数：😊
+* Woon Sang Cho, Yizhe Zhang, Sudha Rao, Chris Brockett, and Sungjin Lee. 2019. [Generating a Common Question from Multiple Documents using Multi-source Encoder-Decoder Models](https://arxiv.org/pdf/1910.11483.pdf). In *Proceedings of EMNLP 2019 workshop*. 难度指数：⭐️ 推荐指数：😊😊
 
 
 <h3 id="2019-10-18">2019-10-19</h2> 
