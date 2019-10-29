@@ -4,6 +4,11 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h2 id="2019-10">2019-10</h2> 
 
+<h3 id="2019-10-18">2019-10-19</h2> 
+
+* Anonymous authors. 2019. [HIERARCHICAL SUMMARY-TO-ARTICLE GENERATION](https://openreview.net/pdf?id=Hkl8Ia4YPH). In *Proceedings of ICLR 2020* under review. 难度指数：⭐️⭐️ 推荐指数：😊😊
+
+
 <h3 id="2019-10-18">2019-10-18</h2> 
 
 * Antoine Bosselut, Asli Celikyilmaz, Xiaodong He, Jianfeng Gao, Po-Sen Huang, and Yejin Cho. 2018. [Discourse-Aware Neural Rewards for Coherent Text Generation](https://www.aclweb.org/anthology/N18-1016.pdf). In *Proceedings of NAACL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=5869608516790877506&as_sdt=2005&sciodt=0,5&hl=zh-CN): 13) 难度指数：⭐️⭐️⭐️ 推荐指数：😊😊
