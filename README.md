@@ -7,6 +7,8 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-22">2019-10-22</h2> 
 
 * Logan Lebanoff, Kaiqiang Song, Franck Dernoncourt, Doo Soon Kim, Seokhwan Kim, Walter Chang, and Fei Liu. 2019. [Scoring Sentence Singletons and Pairs for Abstractive Summarization](https://www.aclweb.org/anthology/P19-1209.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=1925550919999792392&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2) 难度指数：⭐️⭐️ 推荐指数：😊😊
+* Hong Wang, Xin Wang, Wenhan Xiong, Mo Yu, Xiaoxiao Guo, Shiyu Chang, and William Yang Wang. 2019. [Self-Supervised Learning for Contextualized Extractive Summarization](https://www.aclweb.org/anthology/P19-1214.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Self-Supervised+Learning+for+Contextualized+Extractive+Summarization&btnG=): 0) 难度指数：⭐️ 推荐指数：😊😊😊
+
 
 
 <h3 id="2019-10-21">2019-10-21</h2> 
