@@ -7,6 +7,7 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-24">2019-10-24</h2> 
 
 * JLaura Perez-Beltrachini, Yang Liu, and Mirella Lapata. 2019. [Generating Summaries with Topic Templates and Structured Convolutional Decoders](https://www.aclweb.org/anthology/P19-1504.pdf). In *Proceedings of ACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=11874498128908139405&as_sdt=2005&sciodt=0,5&hl=zh-CN): 1) 难度指数：⭐️⭐️ 推荐指数：😊😊
+* Sameen Maruf, André F. T. Martins, and Gholamreza Haffari. 2019. [Selective Attention for Context-aware Neural Machine Translation](https://www.aclweb.org/anthology/N19-1313.pdf). In *Proceedings of NAACL 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=10527151405560800466&as_sdt=2005&sciodt=0,5&hl=zh-CN): 2) 难度指数：⭐️⭐️ 推荐指数：😊😊
 
 
 <h3 id="2019-10-23">2019-10-23</h2> 
