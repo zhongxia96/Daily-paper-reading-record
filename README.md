@@ -7,6 +7,7 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-25">2019-10-25</h2> 
 
 * Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Ves Stoyanov, and Luke Zettlemoyer. 2019. [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/pdf/1910.13461.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊
+* Zhaopeng Tu, Yang Liu, Shuming Shi, and Tong Zhang. 2018. [Learning to Remember Translation History with a Continuous Cache](https://www.aclweb.org/anthology/Q18-1029.pdf). In *Proceedings of TACL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?cites=4417021458385953863&as_sdt=2005&sciodt=0,5&hl=zh-CN): 22) 难度指数：⭐️⭐️ 推荐指数：😊😊
 
 
 <h3 id="2019-10-24">2019-10-24</h2> 
