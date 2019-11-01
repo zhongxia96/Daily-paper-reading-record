@@ -8,6 +8,7 @@ This repository is created for recording the paper I read every day, so as to fa
 
 * Krtin Kumar, and Jackie Chi Kit Cheung. 2018. [Understanding the Behaviour of Neural Abstractive Summarizers using
 Contrastive Examples](https://www.aclweb.org/anthology/N19-1396.pdf). In *Proceedings of TACL 2018*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=2005&sciodt=0%2C5&cites=4417021458385953863&scipsc=&q=Understanding+the+Behaviour+of+Neural+Abstractive+Summarizers+using+Contrastive+Examples&btnG=): 0) 难度指数：⭐️ 推荐指数：😊😊
+* Jiacheng Xu, Zhe Gan, Yu Cheng, and Jingjing Liu. 2019. [Discourse-Aware Neural Extractive Model for Text Summarization](https://arxiv.org/pdf/1910.14142.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊😊
 
 
 <h3 id="2019-10-25">2019-10-25</h2> 
