@@ -4,6 +4,11 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h2 id="2019-10">2019-10</h2> 
 
+<h3 id="2019-10-27">2019-10-27</h2> 
+
+* Xinyu Hua, and Lu Wang. 2019. [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://arxiv.org/pdf/1909.00734.pdf). In *Proceedings of EMNLP 2019*. 难度指数：⭐️⭐️ 推荐指数：😊😊
+
+
 <h3 id="2019-10-26">2019-10-26</h2> 
 
 * Krtin Kumar, and Jackie Chi Kit Cheung. 2018. [Understanding the Behaviour of Neural Abstractive Summarizers using
