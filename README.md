@@ -6,6 +6,7 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h3 id="2019-10-27">2019-10-27</h2> 
 
+* Jonathan Mallinson and Mirella Lapata. 2019. [Controllable Sentence Simplification: Employing Syntactic and Lexical Constraints](https://arxiv.org/pdf/1910.04387.pdf). In *Proceedings of AAAI 2020* under review. 难度指数：⭐️⭐️ 推荐指数：😊😊
 * Xinyu Hua, and Lu Wang. 2019. [Sentence-Level Content Planning and Style Specification for Neural Text Generation](https://arxiv.org/pdf/1909.00734.pdf). In *Proceedings of EMNLP 2019*. 难度指数：⭐️⭐️ 推荐指数：😊😊
 
 
