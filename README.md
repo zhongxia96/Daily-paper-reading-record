@@ -4,6 +4,11 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h2 id="2019-10">2019-10</h2> 
 
+<h3 id="2019-10-28">2019-10-28</h2> 
+
+* Ekaterina Lapshinova-Koltunski, Cristina Espana-Bonet, and Josef van Genabith. 2019. [Analysing Coreference in Transformer Outputs](https://www.aclweb.org/anthology/D19-6501.pdf). In *Proceedings of DiscoMT 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Analysing+Coreference+in+Transformer+Outputs&btnG=): 0) 难度指数：⭐️⭐️ 推荐指数：😊
+
+
 <h3 id="2019-10-27">2019-10-27</h2> 
 
 * Jonathan Mallinson and Mirella Lapata. 2019. [Controllable Sentence Simplification: Employing Syntactic and Lexical Constraints](https://arxiv.org/pdf/1910.04387.pdf). In *Proceedings of AAAI 2020* under review. 难度指数：⭐️⭐️ 推荐指数：😊😊
