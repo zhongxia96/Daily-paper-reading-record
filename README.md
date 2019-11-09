@@ -6,6 +6,7 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h3 id="2019-10-28">2019-10-28</h2> 
 
+* Deming Ye, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, and Maosong Sun. 2019. [Multi-Paragraph Reasoning with Knowledge-enhanced Graph Neural Network](https://arxiv.org/pdf/1911.02170.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊
 * Ekaterina Lapshinova-Koltunski, Cristina Espana-Bonet, and Josef van Genabith. 2019. [Analysing Coreference in Transformer Outputs](https://www.aclweb.org/anthology/D19-6501.pdf). In *Proceedings of DiscoMT 2019*. ([Citation](https://x.glgoo.99lb.net/scholar?hl=zh-CN&as_sdt=0%2C5&as_ylo=2017&q=Analysing+Coreference+in+Transformer+Outputs&btnG=): 0) 难度指数：⭐️⭐️ 推荐指数：😊
 
 
