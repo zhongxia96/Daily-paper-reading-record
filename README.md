@@ -7,6 +7,7 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-30">2019-10-30</h2> 
 
 * Yuhao Zhang, Derek Merck, Emily Bao Tsai, Christopher D. Manning, and Curtis P. Langlotz. 2019. [Optimizing the Factual Correctness of a Summary: A Study of Summarizing Radiology Reports](https://arxiv.org/pdf/1911.02541.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊
+* Yang Yang, Deyu ZHOU, Yulan He, and Meng Zhang. 2019. [Interpretable Relevant Emotion Ranking with Event-Driven Attention](https://www.aclweb.org/anthology/D19-1017.pdf). In *Proceedings of EMNLP 2019*. 难度指数：⭐️⭐️⭐️ 推荐指数：😊
 
 
 <h3 id="2019-10-29">2019-10-29</h2> 
