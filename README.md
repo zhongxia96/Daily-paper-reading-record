@@ -7,6 +7,7 @@ This repository is created for recording the paper I read every day, so as to fa
 <h3 id="2019-10-29">2019-10-29</h2> 
 
 * Xiaoyu Shen, Yang Zhao, Hui Su, and Dietrich Klakow. 2019. [Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator](https://www.aclweb.org/anthology/D19-1390.pdf). In *Proceedings of EMNLP 2019*. 难度指数：⭐️⭐️ 推荐指数：😊😊
+* Nicola De Cao, Wilker Aziz, and Ivan Titov. 2019. [Question Answering by Reasoning Across Documents with Graph Convolutional Networks](https://arxiv.org/pdf/1808.09920.pdf). In *Proceedings of NAACL 2019*. 难度指数：⭐️⭐️ 推荐指数：😊😊
 
 
 <h3 id="2019-10-28">2019-10-28</h2> 
