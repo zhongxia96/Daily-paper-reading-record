@@ -4,6 +4,11 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h2 id="2019-10">2019-10</h2> 
 
+<h3 id="2019-10-29">2019-10-29</h2> 
+
+* Xiaoyu Shen, Yang Zhao, Hui Su, and Dietrich Klakow. 2019. [Improving Latent Alignment in Text Summarization by Generalizing the Pointer Generator](https://www.aclweb.org/anthology/D19-1390.pdf). In *Proceedings of EMNLP 2019*. 难度指数：⭐️⭐️ 推荐指数：😊😊
+
+
 <h3 id="2019-10-28">2019-10-28</h2> 
 
 * Deming Ye, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, and Maosong Sun. 2019. [Multi-Paragraph Reasoning with Knowledge-enhanced Graph Neural Network](https://arxiv.org/pdf/1911.02170.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊
