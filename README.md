@@ -5,7 +5,7 @@ This repository is created for recording the paper I read every day, so as to fa
 
 <h3 id="2020-9-28">2020-9-28</h2> 
 
-* Zeyu Dai, and Ruihong Huang. 2019. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊😊
+* Zeyu Dai, and Ruihong Huang. 2019. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf). arxiv.  ([Citation](https://scholar.google.com.hk/scholar?cites=7513129495786575962&as_sdt=2005&sciodt=0,5&hl=en): 1) 难度指数：⭐️⭐️ 推荐指数：😊😊😊
 
 
 
