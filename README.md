@@ -1,6 +1,13 @@
 ﻿# Daily-paper-reading-record
 This repository is created for recording the paper I read every day, so as to facilitate my review and push myself to learn. At the end of each month, a sorting and classification will be conducted, please look forward to.
 
+<h2 id="2020-9">2019-10</h2> 
+
+<h3 id="2020-9-28">2019-9-28</h2> 
+
+* Zeyu Dai, and Ruihong Huang. 2019. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf). arxiv. 难度指数：⭐️⭐️ 推荐指数：😊😊😊
+
+
 
 <h2 id="2019-10">2019-10</h2> 
 
