@@ -1,6 +1,13 @@
 ﻿# Daily-paper-reading-record
 This repository is created for recording the paper I read every day, so as to facilitate my review and push myself to learn. At the end of each month, a sorting and classification will be conducted, please look forward to.
 
+<h2 id="2020-10">2020-10</h2> 
+
+<h3 id="2020-10-18">2020-10-28</h2> 
+
+* Zhang, Jianmin, Jin-ge Yao, and Xiaojun Wan. [Towards constructing sports news from live text commentary](https://wanxiaojun.github.io/acl16_sports.pdf). In *Proceedings of ACL 2016*. ([Citation](https://scholar.google.com.hk/scholar?cites=13239194063465542782&as_sdt=2005&sciodt=0,5&hl=en): 29) 难度指数：⭐️⭐️ 推荐指数：😊😊😊
+* Goodfellow, Ian J., Jonathon Shlens, and Christian Szegedy. [Explaining and harnessing adversarial examples](https://arxiv.org/pdf/1412.6572.pdf). In *Proceedings of ACL 2016*. ([Citation](https://scholar.google.com.hk/scholar?cites=14908107896544813002&as_sdt=2005&sciodt=0,5&hl=en): 5687) 难度指数：⭐️⭐️⭐️ 推荐指数：😊😊😊😊😊
+
 <h2 id="2020-9">2020-9</h2> 
 
 <h3 id="2020-9-28">2020-9-28</h2> 
