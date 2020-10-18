@@ -7,7 +7,8 @@ This repository is created for recording the paper I read every day, so as to fa
 
 * Zeyu Dai, and Ruihong Huang. 2019. [Evaluating the Factual Consistency of Abstractive Text Summarization](https://arxiv.org/pdf/1910.12840.pdf). arxiv.  ([Citation](https://scholar.google.com.hk/scholar?cites=7513129495786575962&as_sdt=2005&sciodt=0,5&hl=en): 1) 难度指数：⭐️⭐️ 推荐指数：😊😊😊
 * Miyato, Takeru, Andrew M. Dai, and Ian Goodfellow. 2016. [Adversarial training methods for semi-supervised text classification](https://arxiv.org/pdf/1605.07725.pdf). In *Proceedings of ICLR 2017*. ([Citation](https://scholar.google.com.hk/scholar?cites=6594257289645930121&as_sdt=2005&sciodt=0,5&hl=en): 327) 难度指数：⭐️⭐️⭐️⭐️ 推荐指数：😊😊😊😊😊
-* Conneau, Alexis, and Guillaume Lample. 2019. [Cross-lingual language model pretraining." Advances in Neural Information Processing Systems](https://arxiv.org/abs/1901.07291). In *Proceedings of NIPS 2019*. ([Citation](https://scholar.google.com.hk/scholar?cites=3656737000274278509&as_sdt=2005&sciodt=0,5&hl=en): 112) 难度指数：⭐️⭐️⭐️ 推荐指数：😊😊😊😊😊
+* Conneau, Alexis, and Guillaume Lample. 2019. [Cross-lingual language model pretraining](https://arxiv.org/abs/1901.07291). In *Proceedings of NIPS 2019*. ([Citation](https://scholar.google.com.hk/scholar?cites=3656737000274278509&as_sdt=2005&sciodt=0,5&hl=en): 112) 难度指数：⭐️⭐️⭐️ 推荐指数：😊😊😊😊😊
+* Lample, Guillaume, Alexis Conneau, Ludovic Denoyer, and Marc'Aurelio Ranzato. [Unsupervised machine translation using monolingual corpora only](https://arxiv.org/abs/1711.00043). In *Proceedings of ICLR 2018*. ([Citation](https://scholar.google.com.hk/scholar?cites=682955820897938264&as_sdt=2005&sciodt=0,5&hl=en): 496) 难度指数：⭐️⭐️⭐️⭐️ 推荐指数：😊😊😊😊😊
 
 
 <h2 id="2019-10">2019-10</h2> 
